@@ -1,10 +1,10 @@
 Image title	Actual		Predicted
 -----------	------		---------
-md_or_mz_1	md		
-md_or_mz_2	mz
-md_or_mz_3	md
-md_or_mz_4	mz
-md_or_mz_5	mz
-md_or_mz_6	md
-md_or_mz_7	md
-md_or_mz_8	mz
+md_or_mz_1	MD		MD	
+md_or_mz_2	MZ		MD (incorrect)
+md_or_mz_3	MD		MD
+md_or_mz_4	MZ		MZ
+md_or_mz_5	MZ		MZ
+md_or_mz_6	MD		MD
+md_or_mz_7	MD		MD
+md_or_mz_8	MZ		MZ
